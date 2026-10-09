@@ -1,0 +1,6 @@
+# Install into the SAME Python interpreter DaVinci Resolve uses for scripts.
+requests>=2.25
+google-api-python-client>=2.0
+google-auth>=2.0
+google-auth-oauthlib>=1.0
+google-auth-httplib2>=0.1
