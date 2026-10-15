@@ -3,3 +3,7 @@ __pycache__/
 .env
 credentials/
 logs/
+
+# Media folders kept inside the repo (never commit recordings or renders)
+Podcast_Staging/
+Podcast_Archive/
